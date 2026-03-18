@@ -1,4 +1,3 @@
-# Analytics-Assignment
 # Project Introduction
 
 ## Project Title: Player Loyalty and Bonus Allocation Analysis
